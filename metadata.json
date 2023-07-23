@@ -1,0 +1,812 @@
+{
+    "tables": {
+        "admissions": {
+            "primary_key": "hadm_id",
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "admittime": {
+                    "sdtype": "datetime"
+                },
+                "dischtime": {
+                    "sdtype": "datetime"
+                },
+                "deathtime": {
+                    "sdtype": "datetime"
+                },
+                "admission_type": {
+                    "sdtype": "categorical"
+                },
+                "admission_location": {
+                    "sdtype": "categorical"
+                },
+                "discharge_location": {
+                    "sdtype": "categorical"
+                },
+                "insurance": {
+                    "sdtype": "categorical"
+                },
+                "language": {
+                    "sdtype": "categorical"
+                },
+                "religion": {
+                    "sdtype": "categorical"
+                },
+                "marital_status": {
+                    "sdtype": "categorical"
+                },
+                "ethnicity": {
+                    "sdtype": "categorical"
+                },
+                "edregtime": {
+                    "sdtype": "datetime"
+                },
+                "edouttime": {
+                    "sdtype": "datetime"
+                },
+                "diagnosis": {
+                    "sdtype": "categorical"
+                },
+                "hospital_expire_flag": {
+                    "sdtype": "categorical"
+                },
+                "has_chartevents_data": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "callout": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "submit_wardid": {
+                    "sdtype": "categorical"
+                },
+                "submit_careunit": {
+                    "sdtype": "categorical"
+                },
+                "curr_wardid": {
+                    "sdtype": "categorical"
+                },
+                "curr_careunit": {
+                    "sdtype": "categorical"
+                },
+                "callout_wardid": {
+                    "sdtype": "categorical"
+                },
+                "callout_service": {
+                    "sdtype": "categorical"
+                },
+                "request_tele": {
+                    "sdtype": "categorical"
+                },
+                "request_resp": {
+                    "sdtype": "categorical"
+                },
+                "request_cdiff": {
+                    "sdtype": "categorical"
+                },
+                "request_mrsa": {
+                    "sdtype": "categorical"
+                },
+                "request_vre": {
+                    "sdtype": "categorical"
+                },
+                "callout_status": {
+                    "sdtype": "categorical"
+                },
+                "callout_outcome": {
+                    "sdtype": "categorical"
+                },
+                "discharge_wardid": {
+                    "sdtype": "categorical"
+                },
+                "acknowledge_status": {
+                    "sdtype": "categorical"
+                },
+                "createtime": {
+                    "sdtype": "datetime"
+                },
+                "updatetime": {
+                    "sdtype": "datetime"
+                },
+                "acknowledgetime": {
+                    "sdtype": "datetime"
+                },
+                "outcometime": {
+                    "sdtype": "datetime"
+                },
+                "firstreservationtime": {
+                    "sdtype": "datetime"
+                },
+                "currentreservationtime": {
+                    "sdtype": "datetime"
+                }
+            }
+        },
+        "chartevents": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "icustay_id": {
+                    "sdtype": "id"
+                },
+                "itemid": {
+                    "sdtype": "id"
+                },
+                "charttime": {
+                    "sdtype": "datetime"
+                },
+                "storetime": {
+                    "sdtype": "datetime"
+                },
+                "cgid": {
+                    "sdtype": "id"
+                },
+                "value": {
+                    "sdtype": "categorical"
+                },
+                "valuenum": {
+                    "sdtype": "numerical"
+                },
+                "valueuom": {
+                    "sdtype": "categorical"
+                },
+                "warning": {
+                    "sdtype": "categorical"
+                },
+                "error": {
+                    "sdtype": "categorical"
+                },
+                "resultstatus": {
+                    "sdtype": "categorical"
+                },
+                "stopped": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "icustays": {
+            "primary_key": "icustay_id",
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "icustay_id": {
+                    "sdtype": "id"
+                },
+                "dbsource": {
+                    "sdtype": "categorical"
+                },
+                "first_careunit": {
+                    "sdtype": "categorical"
+                },
+                "last_careunit": {
+                    "sdtype": "categorical"
+                },
+                "first_wardid": {
+                    "sdtype": "categorical"
+                },
+                "last_wardid": {
+                    "sdtype": "categorical"
+                },
+                "intime": {
+                    "sdtype": "datetime"
+                },
+                "outtime": {
+                    "sdtype": "datetime"
+                },
+                "los": {
+                    "sdtype": "numerical"
+                }
+            }
+        },
+        "cptevents": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "costcenter": {
+                    "sdtype": "categorical"
+                },
+                "chartdate": {
+                    "sdtype": "categorical"
+                },
+                "cpt_cd": {
+                    "sdtype": "numerical"
+                },
+                "cpt_number": {
+                    "sdtype": "numerical"
+                },
+                "cpt_suffix": {
+                    "sdtype": "numerical"
+                },
+                "ticket_id_seq": {
+                    "sdtype": "numerical"
+                },
+                "sectionheader": {
+                    "sdtype": "categorical"
+                },
+                "subsectionheader": {
+                    "sdtype": "categorical"
+                },
+                "description": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "inputevents_mv": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "icustay_id": {
+                    "sdtype": "id"
+                },
+                "starttime": {
+                    "sdtype": "datetime"
+                },
+                "endtime": {
+                    "sdtype": "datetime"
+                },
+                "itemid": {
+                    "sdtype": "id"
+                },
+                "amount": {
+                    "sdtype": "numerical"
+                },
+                "amountuom": {
+                    "sdtype": "categorical"
+                },
+                "rate": {
+                    "sdtype": "numerical"
+                },
+                "rateuom": {
+                    "sdtype": "categorical"
+                },
+                "storetime": {
+                    "sdtype": "datetime"
+                },
+                "cgid": {
+                    "sdtype": "id"
+                },
+                "orderid": {
+                    "sdtype": "id"
+                },
+                "linkorderid": {
+                    "sdtype": "id"
+                },
+                "ordercategoryname": {
+                    "sdtype": "categorical"
+                },
+                "secondaryordercategoryname": {
+                    "sdtype": "categorical"
+                },
+                "ordercomponenttypedescription": {
+                    "sdtype": "categorical"
+                },
+                "ordercategorydescription": {
+                    "sdtype": "categorical"
+                },
+                "patientweight": {
+                    "sdtype": "numerical"
+                },
+                "totalamount": {
+                    "sdtype": "numerical"
+                },
+                "totalamountuom": {
+                    "sdtype": "categorical"
+                },
+                "isopenbag": {
+                    "sdtype": "categorical"
+                },
+                "continueinnextdept": {
+                    "sdtype": "categorical"
+                },
+                "cancelreason": {
+                    "sdtype": "categorical"
+                },
+                "statusdescription": {
+                    "sdtype": "categorical"
+                },
+                "comments_editedby": {
+                    "sdtype": "categorical"
+                },
+                "comments_canceledby": {
+                    "sdtype": "categorical"
+                },
+                "comments_date": {
+                    "sdtype": "datetime"
+                },
+                "originalamount": {
+                    "sdtype": "numerical"
+                },
+                "originalrate": {
+                    "sdtype": "numerical"
+                }
+            }
+        },
+        "labevents": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "itemid": {
+                    "sdtype": "id"
+                },
+                "charttime": {
+                    "sdtype": "datetime"
+                },
+                "valuenum": {
+                    "sdtype": "numerical"
+                },
+                "valueuom": {
+                    "sdtype": "categorical"
+                },
+                "flag": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "microbiologyevents": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "chartdate": {
+                    "sdtype": "datetime"
+                },
+                "charttime": {
+                    "sdtype": "datetime"
+                },
+                "spec_itemid": {
+                    "sdtype": "numerical"
+                },
+                "spec_type_desc": {
+                    "sdtype": "categorical"
+                },
+                "org_itemid": {
+                    "sdtype": "numerical"
+                },
+                "org_name": {
+                    "sdtype": "categorical"
+                },
+                "isolate_num": {
+                    "sdtype": "numerical"
+                },
+                "ab_itemid": {
+                    "sdtype": "numerical"
+                },
+                "ab_name": {
+                    "sdtype": "categorical"
+                },
+                "dilution_text": {
+                    "sdtype": "categorical"
+                },
+                "dilution_comparison": {
+                    "sdtype": "categorical"
+                },
+                "dilution_value": {
+                    "sdtype": "numerical"
+                },
+                "interpretation": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "outputevents": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "icustay_id": {
+                    "sdtype": "id"
+                },
+                "charttime": {
+                    "sdtype": "datetime"
+                },
+                "itemid": {
+                    "sdtype": "id"
+                },
+                "value": {
+                    "sdtype": "numerical"
+                },
+                "valueuom": {
+                    "sdtype": "categorical"
+                },
+                "storetime": {
+                    "sdtype": "datetime"
+                },
+                "cgid": {
+                    "sdtype": "id"
+                },
+                "stopped": {
+                    "sdtype": "numerical"
+                },
+                "newbottle": {
+                    "sdtype": "numerical"
+                },
+                "iserror": {
+                    "sdtype": "numerical"
+                }
+            }
+        },
+        "patients": {
+            "primary_key": "subject_id",
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "gender": {
+                    "sdtype": "categorical"
+                },
+                "dob": {
+                    "sdtype": "datetime"
+                },
+                "dod": {
+                    "sdtype": "datetime"
+                },
+                "dod_hosp": {
+                    "sdtype": "datetime"
+                },
+                "dod_ssn": {
+                    "sdtype": "datetime"
+                },
+                "expire_flag": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "prescriptions": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "icustay_id": {
+                    "sdtype": "id"
+                },
+                "startdate": {
+                    "sdtype": "datetime"
+                },
+                "enddate": {
+                    "sdtype": "datetime"
+                },
+                "drug_type": {
+                    "sdtype": "categorical"
+                },
+                "drug": {
+                    "sdtype": "categorical"
+                },
+                "drug_name_poe": {
+                    "sdtype": "categorical"
+                },
+                "drug_name_generic": {
+                    "sdtype": "categorical"
+                },
+                "formulary_drug_cd": {
+                    "sdtype": "categorical"
+                },
+                "gsn": {
+                    "sdtype": "numerical"
+                },
+                "ndc": {
+                    "sdtype": "numerical"
+                },
+                "prod_strength": {
+                    "sdtype": "categorical"
+                },
+                "dose_val_rx": {
+                    "sdtype": "categorical"
+                },
+                "dose_unit_rx": {
+                    "sdtype": "categorical"
+                },
+                "form_val_disp": {
+                    "sdtype": "categorical"
+                },
+                "form_unit_disp": {
+                    "sdtype": "categorical"
+                },
+                "route": {
+                    "sdtype": "categorical"
+                }
+            }
+        },
+        "procedureevents_mv": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "icustay_id": {
+                    "sdtype": "id"
+                },
+                "starttime": {
+                    "sdtype": "datetime"
+                },
+                "endtime": {
+                    "sdtype": "datetime"
+                },
+                "itemid": {
+                    "sdtype": "numerical"
+                },
+                "value": {
+                    "sdtype": "numerical"
+                },
+                "valueuom": {
+                    "sdtype": "categorical"
+                },
+                "location": {
+                    "sdtype": "categorical"
+                },
+                "locationcategory": {
+                    "sdtype": "categorical"
+                },
+                "storetime": {
+                    "sdtype": "datetime"
+                },
+                "cgid": {
+                    "sdtype": "numerical"
+                },
+                "orderid": {
+                    "sdtype": "numerical"
+                },
+                "linkorderid": {
+                    "sdtype": "numerical"
+                },
+                "ordercategoryname": {
+                    "sdtype": "categorical"
+                },
+                "secondaryordercategoryname": {
+                    "sdtype": "numerical"
+                },
+                "ordercategorydescription": {
+                    "sdtype": "categorical"
+                },
+                "isopenbag": {
+                    "sdtype": "numerical"
+                },
+                "continueinnextdept": {
+                    "sdtype": "numerical"
+                },
+                "cancelreason": {
+                    "sdtype": "numerical"
+                },
+                "statusdescription": {
+                    "sdtype": "categorical"
+                },
+                "comments_editedby": {
+                    "sdtype": "categorical"
+                },
+                "comments_canceledby": {
+                    "sdtype": "categorical"
+                },
+                "comments_date": {
+                    "sdtype": "datetime"
+                }
+            }
+        },
+        "procedures_icd": {
+            "columns": {
+                "subject_id": {
+                    "sdtype": "id"
+                },
+                "hadm_id": {
+                    "sdtype": "id"
+                },
+                "seq_num": {
+                    "sdtype": "numerical"
+                },
+                "icd9_code": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "admissions",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "callout",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "callout",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "chartevents",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "chartevents",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "icustays",
+            "child_table_name": "chartevents",
+            "parent_primary_key": "icustay_id",
+            "child_foreign_key": "icustay_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "cptevents",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "cptevents",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "icustays",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "icustays",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "inputevents_mv",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "inputevents_mv",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "icustays",
+            "child_table_name": "inputevents_mv",
+            "parent_primary_key": "icustay_id",
+            "child_foreign_key": "icustay_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "labevents",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "labevents",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "microbiologyevents",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "microbiologyevents",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "outputevents",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "outputevents",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "icustays",
+            "child_table_name": "outputevents",
+            "parent_primary_key": "icustay_id",
+            "child_foreign_key": "icustay_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "prescriptions",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "prescriptions",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "icustays",
+            "child_table_name": "prescriptions",
+            "parent_primary_key": "icustay_id",
+            "child_foreign_key": "icustay_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "procedureevents_mv",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "procedureevents_mv",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        },
+        {
+            "parent_table_name": "icustays",
+            "child_table_name": "procedureevents_mv",
+            "parent_primary_key": "icustay_id",
+            "child_foreign_key": "icustay_id"
+        },
+        {
+            "parent_table_name": "patients",
+            "child_table_name": "procedures_icd",
+            "parent_primary_key": "subject_id",
+            "child_foreign_key": "subject_id"
+        },
+        {
+            "parent_table_name": "admissions",
+            "child_table_name": "procedures_icd",
+            "parent_primary_key": "hadm_id",
+            "child_foreign_key": "hadm_id"
+        }
+    ],
+    "METADATA_SPEC_VERSION": "MULTI_TABLE_V1"
+}
