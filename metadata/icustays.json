@@ -1,0 +1,31 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "primary_key": "icustay_id",
+    "columns": {
+        "icustay_id": {
+            "sdtype": "id",
+            "regex_format": "ICUID_[0-9]{4,12}"
+        },
+        "dbsource": {
+            "sdtype": "categorical"
+        },
+        "first_careunit": {
+            "sdtype": "categorical"
+        },
+        "last_careunit": {
+            "sdtype": "categorical"
+        },
+        "first_wardid": {
+            "sdtype": "categorical"
+        },
+        "last_wardid": {
+            "sdtype": "categorical"
+        },
+        "intime": {
+            "sdtype": "datetime"
+        },
+        "outtime": {
+            "sdtype": "datetime"
+        }
+    }
+}
