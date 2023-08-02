@@ -1,0 +1,17 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "costcenter": {
+            "sdtype": "categorical"
+        },
+        "cpt_number": {
+            "sdtype": "categorical"
+        },
+        "sectionheader": {
+            "sdtype": "categorical"
+        },
+        "subsectionheader": {
+            "sdtype": "categorical"
+        }
+    }
+}
