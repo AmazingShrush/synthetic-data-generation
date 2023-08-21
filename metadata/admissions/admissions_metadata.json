@@ -1,4 +1,5 @@
 {
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "columns": {
         "hadm_id": {
             "sdtype": "id",
@@ -47,6 +48,5 @@
             "sdtype": "categorical"
         }
     },
-    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "primary_key": "hadm_id"
 }
