@@ -1,0 +1,26 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "dbsource": {
+            "sdtype": "categorical"
+        },
+        "first_careunit": {
+            "sdtype": "categorical"
+        },
+        "last_careunit": {
+            "sdtype": "categorical"
+        },
+        "first_wardid": {
+            "sdtype": "categorical"
+        },
+        "last_wardid": {
+            "sdtype": "categorical"
+        },
+        "intime": {
+            "sdtype": "datetime"
+        },
+        "outtime": {
+            "sdtype": "datetime"
+        }
+    }
+}

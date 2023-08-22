@@ -11,7 +11,7 @@ def date_discretisation(date):
         return "Na"
 
 
-# Read csv file as DataFrame, and drop ROW_ID column
+# Read csv file as DataFrame, and drop row_id column
 def read_csv_no_rowid(file_path):
     df = pd.read_csv(file_path)
     df.drop(['row_id'], axis=1, inplace=True)

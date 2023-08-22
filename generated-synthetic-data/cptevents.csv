@@ -1,0 +1,1501 @@
+subject_id,hadm_id,costcenter,cpt_number,sectionheader,subsectionheader
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99233,Evaluation and management,Hospital inpatient services
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99291,Evaluation and management,Critical care services
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,90935,Medicine,Dialysis
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99232,Evaluation and management,Hospital inpatient services
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99233,Evaluation and management,Hospital inpatient services
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,90935,Medicine,Dialysis
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99291,Evaluation and management,Critical care services
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99232,Evaluation and management,Hospital inpatient services
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,33533,Surgery,Cardiovascular system
+0446b110-3747-40b1-ac19-e7f79dd3726b,HID_0252,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0195,Resp,94003,Medicine,Pulmonary
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0195,Resp,94003,Medicine,Pulmonary
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0195,Resp,94003,Medicine,Pulmonary
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0195,Resp,94003,Medicine,Pulmonary
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0195,Resp,94003,Medicine,Pulmonary
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0195,Resp,94003,Medicine,Pulmonary
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99291,Evaluation and management,Critical care services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99232,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99291,Evaluation and management,Critical care services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,31641,Surgery,Respiratory system
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+06c01aee-80ca-4d11-ae44-812eda0fcf3d,HID_0241,ICU,99233,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99232,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99233,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99291,Evaluation and management,Critical care services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99223,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99253,Evaluation and management,Consultations
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99232,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99291,Evaluation and management,Critical care services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99233,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,39010,Surgery,Mediastinum and diaphragm
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99232,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99232,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99231,Evaluation and management,Hospital inpatient services
+0829d2ed-9ad2-4a60-818f-338373c41fa6,HID_0166,ICU,99291,Evaluation and management,Critical care services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99233,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99231,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99232,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99233,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99232,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99291,Evaluation and management,Critical care services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99233,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99233,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99291,Evaluation and management,Critical care services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99232,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99233,Evaluation and management,Hospital inpatient services
+0b37de7a-1ec5-4d6a-9a5e-786764eb22d2,HID_0162,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99233,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99223,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,39010,Surgery,Mediastinum and diaphragm
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0161,ICU,99233,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94002,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0229,Resp,94003,Medicine,Pulmonary
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,39010,Surgery,Mediastinum and diaphragm
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,39010,Surgery,Mediastinum and diaphragm
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99221,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,90935,Medicine,Dialysis
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99291,Evaluation and management,Critical care services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99232,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99233,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99231,Evaluation and management,Hospital inpatient services
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99255,Evaluation and management,Consultations
+0ca912a1-a556-44c4-9224-9a687cd1e13a,HID_0247,ICU,99291,Evaluation and management,Critical care services
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0cb7d63a-b4a6-44fb-9b72-31d5ee3a1d3e,HID_0145,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0dfe9296-053c-4c53-9db5-cb71fb2ca741,HID_0203,Resp,94003,Medicine,Pulmonary
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99291,Evaluation and management,Critical care services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99233,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99222,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99233,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,39010,Surgery,Mediastinum and diaphragm
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99231,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99233,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99233,Evaluation and management,Hospital inpatient services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99291,Evaluation and management,Critical care services
+0eaf8aed-9f65-45dd-88f0-2fbc0ad9c3b3,HID_0152,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,33533,Surgery,Cardiovascular system
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0194,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99231,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99239,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0236,ICU,99231,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99223,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,61154,Surgery,Nervous system
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99223,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99238,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0245,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99291,Evaluation and management,Critical care services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99239,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99232,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99231,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99233,Evaluation and management,Hospital inpatient services
+100ed268-e7d0-47ea-a128-9c0b57206a32,HID_0249,ICU,99221,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99231,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99232,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,39010,Surgery,Mediastinum and diaphragm
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99233,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99232,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99233,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99233,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99232,Evaluation and management,Hospital inpatient services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99291,Evaluation and management,Critical care services
+10180283-cd2c-4004-9863-a5be026f79a0,HID_0180,ICU,99233,Evaluation and management,Hospital inpatient services
+13e2f10f-3424-413e-bb97-708511802c50,HID_0173,Resp,94003,Medicine,Pulmonary
+13e2f10f-3424-413e-bb97-708511802c50,HID_0173,Resp,94003,Medicine,Pulmonary
+13e2f10f-3424-413e-bb97-708511802c50,HID_0173,Resp,94003,Medicine,Pulmonary
+13e2f10f-3424-413e-bb97-708511802c50,HID_0173,Resp,94003,Medicine,Pulmonary
+13e2f10f-3424-413e-bb97-708511802c50,HID_0173,Resp,94003,Medicine,Pulmonary
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99232,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99232,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99232,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99233,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99232,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99232,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99291,Evaluation and management,Critical care services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99291,Evaluation and management,Critical care services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99233,Evaluation and management,Hospital inpatient services
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,39010,Surgery,Mediastinum and diaphragm
+173da63e-79e9-43d2-bfef-11a56c79d989,HID_0260,ICU,99222,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99232,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99291,Evaluation and management,Critical care services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99232,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99291,Evaluation and management,Critical care services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99233,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99233,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99233,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99233,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99232,Evaluation and management,Hospital inpatient services
+1ec04ad2-2873-4bb3-95b1-f66a144aef6e,HID_0199,ICU,99291,Evaluation and management,Critical care services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99254,Evaluation and management,Consultations
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99239,Evaluation and management,Hospital inpatient services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99232,Evaluation and management,Hospital inpatient services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99291,Evaluation and management,Critical care services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,33257,Surgery,Cardiovascular system
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,39010,Surgery,Mediastinum and diaphragm
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99223,Evaluation and management,Hospital inpatient services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99291,Evaluation and management,Critical care services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99233,Evaluation and management,Hospital inpatient services
+1f38396b-19b2-4298-bb3c-af98ce3cbf10,HID_0181,ICU,99232,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99291,Evaluation and management,Critical care services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99232,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99291,Evaluation and management,Critical care services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99291,Evaluation and management,Critical care services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99233,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99291,Evaluation and management,Critical care services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0156,ICU,99233,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99255,Evaluation and management,Consultations
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99233,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99232,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99232,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,39010,Surgery,Mediastinum and diaphragm
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99233,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,39010,Surgery,Mediastinum and diaphragm
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99233,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99233,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99231,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99232,Evaluation and management,Hospital inpatient services
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99253,Evaluation and management,Consultations
+1f720c22-c833-4a30-ba53-f800c26fe153,HID_0233,ICU,99233,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99233,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99233,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99232,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99291,Evaluation and management,Critical care services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99232,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99291,Evaluation and management,Critical care services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99232,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99233,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99232,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99291,Evaluation and management,Critical care services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,50010,Surgery,Urinary system
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0164,ICU,99233,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0258,ICU,39010,Surgery,Mediastinum and diaphragm
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0258,ICU,99291,Evaluation and management,Critical care services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0258,ICU,99291,Evaluation and management,Critical care services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0258,ICU,99233,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0258,ICU,99232,Evaluation and management,Hospital inpatient services
+28502de5-a547-4b43-8a47-8237fb1cb0b7,HID_0258,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99291,Evaluation and management,Critical care services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99291,Evaluation and management,Critical care services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99232,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99291,Evaluation and management,Critical care services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99291,Evaluation and management,Critical care services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,39010,Surgery,Mediastinum and diaphragm
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99231,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99239,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,39010,Surgery,Mediastinum and diaphragm
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0155,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99291,Evaluation and management,Critical care services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99232,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99255,Evaluation and management,Consultations
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99232,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99239,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99233,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99232,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,39010,Surgery,Mediastinum and diaphragm
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99232,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99232,Evaluation and management,Hospital inpatient services
+29e2a983-7614-41ef-9dfa-b5c6299446c1,HID_0230,ICU,99232,Evaluation and management,Hospital inpatient services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0168,Resp,94003,Medicine,Pulmonary
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0168,Resp,94003,Medicine,Pulmonary
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0168,Resp,94003,Medicine,Pulmonary
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0168,Resp,94003,Medicine,Pulmonary
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0168,Resp,94003,Medicine,Pulmonary
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0168,Resp,94002,Medicine,Pulmonary
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99232,Evaluation and management,Hospital inpatient services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99291,Evaluation and management,Critical care services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99291,Evaluation and management,Critical care services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99232,Evaluation and management,Hospital inpatient services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99222,Evaluation and management,Hospital inpatient services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99232,Evaluation and management,Hospital inpatient services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,90935,Medicine,Dialysis
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99291,Evaluation and management,Critical care services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,99231,Evaluation and management,Hospital inpatient services
+30415be1-1263-44bf-bd19-caa25787eecc,HID_0228,ICU,39010,Surgery,Mediastinum and diaphragm
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99233,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99291,Evaluation and management,Critical care services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99232,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99232,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,39010,Surgery,Mediastinum and diaphragm
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99232,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99232,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99233,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,99223,Evaluation and management,Hospital inpatient services
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0200,ICU,33405,Surgery,Cardiovascular system
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94003,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94002,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94003,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94003,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94002,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94003,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94003,Medicine,Pulmonary
+362b0ec6-9e33-4f42-b430-05d67f8ed297,HID_0224,Resp,94002,Medicine,Pulmonary
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99233,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,39010,Surgery,Mediastinum and diaphragm
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99233,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99223,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99233,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99231,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99232,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99291,Evaluation and management,Critical care services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99232,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,39010,Surgery,Mediastinum and diaphragm
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99232,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99291,Evaluation and management,Critical care services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,90935,Medicine,Dialysis
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99233,Evaluation and management,Hospital inpatient services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99291,Evaluation and management,Critical care services
+3faa9dfb-73d9-4b69-be43-1cb2bdb6cd42,HID_0140,ICU,99233,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99291,Evaluation and management,Critical care services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99233,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99232,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99233,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99232,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,33508,Surgery,Cardiovascular system
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,69990,Surgery,Operating microscope (deleted code)
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99291,Evaluation and management,Critical care services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99233,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99233,Evaluation and management,Hospital inpatient services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99291,Evaluation and management,Critical care services
+3ff09f26-1134-44b0-8a4b-16ba2d23134b,HID_0213,ICU,99232,Evaluation and management,Hospital inpatient services
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+444a6ea5-4ad6-4ee6-a7b1-2afe696686c5,HID_0176,Resp,94003,Medicine,Pulmonary
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99239,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99291,Evaluation and management,Critical care services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99233,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99232,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99233,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99291,Evaluation and management,Critical care services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99232,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99233,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99233,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99291,Evaluation and management,Critical care services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99292,Evaluation and management,Critical care services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99233,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99233,Evaluation and management,Hospital inpatient services
+46a46ad6-aa1b-4bbf-af4b-e48c46311a93,HID_0165,ICU,99232,Evaluation and management,Hospital inpatient services
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+49703271-f7a7-4ba9-823d-e40dd1dba136,HID_0179,Resp,94003,Medicine,Pulmonary
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99222,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,33530,Surgery,Cardiovascular system
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99233,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99232,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99233,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99232,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99233,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99232,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99291,Evaluation and management,Critical care services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99233,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99232,Evaluation and management,Hospital inpatient services
+4bd205ce-44a2-457e-b439-3b6fb0aa2a31,HID_0144,ICU,99239,Evaluation and management,Hospital inpatient services
+4d9f8776-b4a4-444c-8d66-223cc3553856,HID_0196,Resp,94003,Medicine,Pulmonary
+4d9f8776-b4a4-444c-8d66-223cc3553856,HID_0196,Resp,94002,Medicine,Pulmonary
+4d9f8776-b4a4-444c-8d66-223cc3553856,HID_0196,Resp,94003,Medicine,Pulmonary
+4d9f8776-b4a4-444c-8d66-223cc3553856,HID_0196,Resp,94003,Medicine,Pulmonary
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99232,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99239,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99231,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99232,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99232,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99239,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99255,Evaluation and management,Consultations
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99231,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0172,ICU,99232,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,39010,Surgery,Mediastinum and diaphragm
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99232,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,33517,Surgery,Cardiovascular system
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99233,Evaluation and management,Hospital inpatient services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99291,Evaluation and management,Critical care services
+4eb9ebcb-0df5-4ab2-ad90-5532ab6c5763,HID_0251,ICU,99232,Evaluation and management,Hospital inpatient services
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,39010,Surgery,Mediastinum and diaphragm
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,99253,Evaluation and management,Consultations
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,99254,Evaluation and management,Consultations
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,39010,Surgery,Mediastinum and diaphragm
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,99232,Evaluation and management,Hospital inpatient services
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,90935,Medicine,Dialysis
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,33517,Surgery,Cardiovascular system
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,99233,Evaluation and management,Hospital inpatient services
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,99233,Evaluation and management,Hospital inpatient services
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,76942,Radiology,Diagnostic ultrasound
+5075eb05-baf8-49bd-b36f-85778e6cab4d,HID_0257,ICU,99233,Evaluation and management,Hospital inpatient services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99232,Evaluation and management,Hospital inpatient services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99291,Evaluation and management,Critical care services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99231,Evaluation and management,Hospital inpatient services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99239,Evaluation and management,Hospital inpatient services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99291,Evaluation and management,Critical care services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99232,Evaluation and management,Hospital inpatient services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99232,Evaluation and management,Hospital inpatient services
+5b6229fc-1ea1-4d23-81bb-c00a990c9a32,HID_0135,ICU,99238,Evaluation and management,Hospital inpatient services
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,99232,Evaluation and management,Hospital inpatient services
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,99291,Evaluation and management,Critical care services
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,99232,Evaluation and management,Hospital inpatient services
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,76942,Radiology,Diagnostic ultrasound
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,99232,Evaluation and management,Hospital inpatient services
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,33508,Surgery,Cardiovascular system
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,99291,Evaluation and management,Critical care services
+5fee00dd-1f2b-4ad0-a417-d4a8d6eb9721,HID_0169,ICU,99233,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99233,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99291,Evaluation and management,Critical care services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99232,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99233,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99232,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99232,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99232,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99232,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99233,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,39010,Surgery,Mediastinum and diaphragm
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,33405,Surgery,Cardiovascular system
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99253,Evaluation and management,Consultations
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99233,Evaluation and management,Hospital inpatient services
+60162a54-a550-46f1-b4ff-eee4b501eaf7,HID_0148,ICU,99233,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99233,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99291,Evaluation and management,Critical care services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99231,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99233,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99233,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99231,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99232,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99232,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99232,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99223,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99222,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,39010,Surgery,Mediastinum and diaphragm
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99239,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99233,Evaluation and management,Hospital inpatient services
+6271d771-4a1a-48b4-a68b-6c2bbbcf5651,HID_0163,ICU,99233,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99231,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99233,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99291,Evaluation and management,Critical care services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99233,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99291,Evaluation and management,Critical care services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99232,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99231,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99233,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99291,Evaluation and management,Critical care services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99255,Evaluation and management,Consultations
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99232,Evaluation and management,Hospital inpatient services
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,90801,Medicine,Psychiatry
+62fb175e-adce-4b09-abb1-d1821da28a95,HID_0175,ICU,99238,Evaluation and management,Hospital inpatient services
+6556bbed-2cd0-45f2-abae-ed4f0b930bed,HID_0158,Resp,94003,Medicine,Pulmonary
+6556bbed-2cd0-45f2-abae-ed4f0b930bed,HID_0158,Resp,94003,Medicine,Pulmonary
+6556bbed-2cd0-45f2-abae-ed4f0b930bed,HID_0158,Resp,94003,Medicine,Pulmonary
+6556bbed-2cd0-45f2-abae-ed4f0b930bed,HID_0158,Resp,94002,Medicine,Pulmonary
+6556bbed-2cd0-45f2-abae-ed4f0b930bed,HID_0158,Resp,94003,Medicine,Pulmonary
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99254,Evaluation and management,Consultations
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99232,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99232,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,36821,Surgery,Cardiovascular system
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99232,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,39010,Surgery,Mediastinum and diaphragm
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99238,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99232,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,39010,Surgery,Mediastinum and diaphragm
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99232,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99232,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99291,Evaluation and management,Critical care services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99239,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99231,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99233,Evaluation and management,Hospital inpatient services
+690216dc-f3e2-4e1b-b1c6-2db8c96741d2,HID_0154,ICU,99231,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99291,Evaluation and management,Critical care services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99291,Evaluation and management,Critical care services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99291,Evaluation and management,Critical care services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,33405,Surgery,Cardiovascular system
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99232,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99233,Evaluation and management,Hospital inpatient services
+698164d7-9920-493a-a141-6bedf3800bc7,HID_0147,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94002,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94003,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94002,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0212,Resp,94002,Medicine,Pulmonary
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99291,Evaluation and management,Critical care services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99291,Evaluation and management,Critical care services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99231,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99233,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99291,Evaluation and management,Critical care services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99222,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99231,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,36620,Surgery,Cardiovascular system
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99232,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99231,Evaluation and management,Hospital inpatient services
+6be80914-208e-4408-a2e7-685ec8f0dd23,HID_0234,ICU,99223,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99231,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99291,Evaluation and management,Critical care services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99233,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99233,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99291,Evaluation and management,Critical care services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99233,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99232,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99232,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99233,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,33405,Surgery,Cardiovascular system
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99233,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99233,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99232,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99231,Evaluation and management,Hospital inpatient services
+6d5dbb39-5473-452f-93cd-36031022025d,HID_0139,ICU,99291,Evaluation and management,Critical care services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99232,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99233,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99291,Evaluation and management,Critical care services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99233,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99232,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99233,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99232,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99238,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99231,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99232,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99291,Evaluation and management,Critical care services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99233,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99232,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99233,Evaluation and management,Hospital inpatient services
+6d6aab0f-1f86-477b-a038-bcb6c6ee78cc,HID_0202,ICU,99291,Evaluation and management,Critical care services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99233,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99231,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99291,Evaluation and management,Critical care services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99222,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99233,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,39010,Surgery,Mediastinum and diaphragm
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99231,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99233,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0210,ICU,99232,Evaluation and management,Hospital inpatient services
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0255,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+701bd0d7-af0c-40c9-a71c-bd154301854c,HID_0256,Resp,94003,Medicine,Pulmonary
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,39010,Surgery,Mediastinum and diaphragm
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0186,ICU,99231,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99292,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,33533,Surgery,Cardiovascular system
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,33405,Surgery,Cardiovascular system
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0225,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,97605,Medicine,Physical medicine and rehabilitation
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99291,Evaluation and management,Critical care services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99232,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,39010,Surgery,Mediastinum and diaphragm
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99233,Evaluation and management,Hospital inpatient services
+745164d9-c093-4a08-af5f-8bbc70c7122f,HID_0243,ICU,99231,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99233,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99231,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99232,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99232,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99232,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99291,Evaluation and management,Critical care services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99233,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99231,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,39010,Surgery,Mediastinum and diaphragm
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,99223,Evaluation and management,Hospital inpatient services
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0132,ICU,33517,Surgery,Cardiovascular system
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+75fc065b-ca23-43a3-9045-c6ce13375d3a,HID_0232,Resp,94003,Medicine,Pulmonary
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99232,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99291,Evaluation and management,Critical care services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99232,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99233,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,39010,Surgery,Mediastinum and diaphragm
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99239,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,27236,Surgery,Musculoskeletal system
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99233,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99232,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99232,Evaluation and management,Hospital inpatient services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99291,Evaluation and management,Critical care services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99291,Evaluation and management,Critical care services
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,39010,Surgery,Mediastinum and diaphragm
+766a3fde-79de-4a2d-ade7-a20327771eab,HID_0150,ICU,99291,Evaluation and management,Critical care services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99233,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99233,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99231,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99233,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,39010,Surgery,Mediastinum and diaphragm
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,27138,Surgery,Musculoskeletal system
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99233,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99233,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99232,Evaluation and management,Hospital inpatient services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99291,Evaluation and management,Critical care services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99291,Evaluation and management,Critical care services
+7ade3c68-34f0-4b6f-a950-a3074739eafc,HID_0190,ICU,99232,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99233,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99232,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99232,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99291,Evaluation and management,Critical care services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99232,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99232,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,39010,Surgery,Mediastinum and diaphragm
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99232,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99233,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99233,Evaluation and management,Hospital inpatient services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,35216,Surgery,Cardiovascular system
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,39010,Surgery,Mediastinum and diaphragm
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99291,Evaluation and management,Critical care services
+7caff9b1-a781-4fa8-9740-558f8182068e,HID_0142,ICU,99291,Evaluation and management,Critical care services
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0137,Resp,94003,Medicine,Pulmonary
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,99232,Evaluation and management,Hospital inpatient services
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,99232,Evaluation and management,Hospital inpatient services
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,99291,Evaluation and management,Critical care services
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,99232,Evaluation and management,Hospital inpatient services
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,39010,Surgery,Mediastinum and diaphragm
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,39010,Surgery,Mediastinum and diaphragm
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,99233,Evaluation and management,Hospital inpatient services
+7ce8d43a-8509-475b-b38f-d4d54357f7e9,HID_0250,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99291,Evaluation and management,Critical care services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99238,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99291,Evaluation and management,Critical care services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,39010,Surgery,Mediastinum and diaphragm
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99291,Evaluation and management,Critical care services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0170,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0227,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0227,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0227,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0227,ICU,99291,Evaluation and management,Critical care services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0227,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0227,ICU,39010,Surgery,Mediastinum and diaphragm
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,31624,Surgery,Respiratory system
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99232,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99291,Evaluation and management,Critical care services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99233,Evaluation and management,Hospital inpatient services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99291,Evaluation and management,Critical care services
+7f52d4a5-b77e-4844-a851-f8ab9f8d9306,HID_0261,ICU,99291,Evaluation and management,Critical care services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99238,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99233,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99239,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,39010,Surgery,Mediastinum and diaphragm
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99232,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99232,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99232,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99232,Evaluation and management,Hospital inpatient services
+8058d1f3-1872-446c-bede-a67ff75e6c36,HID_0151,ICU,99291,Evaluation and management,Critical care services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,39010,Surgery,Mediastinum and diaphragm
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99291,Evaluation and management,Critical care services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99231,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99232,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99231,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99233,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99232,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99233,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99223,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99291,Evaluation and management,Critical care services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0187,ICU,99232,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99231,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99239,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99291,Evaluation and management,Critical care services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99233,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99291,Evaluation and management,Critical care services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99233,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99233,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99233,Evaluation and management,Hospital inpatient services
+80987a54-29f6-4d79-b383-6a9d21cea466,HID_0240,ICU,99356,Evaluation and management,Prolonged services
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+839adab2-18ae-4f4e-8a1d-98dad19448f9,HID_0138,Resp,94003,Medicine,Pulmonary
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99291,Evaluation and management,Critical care services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99291,Evaluation and management,Critical care services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99233,Evaluation and management,Hospital inpatient services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99232,Evaluation and management,Hospital inpatient services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99231,Evaluation and management,Hospital inpatient services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99233,Evaluation and management,Hospital inpatient services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99232,Evaluation and management,Hospital inpatient services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99291,Evaluation and management,Critical care services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99233,Evaluation and management,Hospital inpatient services
+850e17a6-b922-475e-b47c-3664090cf3ca,HID_0205,ICU,99231,Evaluation and management,Hospital inpatient services
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94002,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+92677c78-008c-4b64-873d-bc7ebc5b1ffe,HID_0182,Resp,94003,Medicine,Pulmonary
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,39010,Surgery,Mediastinum and diaphragm
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99291,Evaluation and management,Critical care services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99231,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99239,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0178,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,32421,Surgery,Respiratory system
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99291,Evaluation and management,Critical care services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99291,Evaluation and management,Critical care services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99233,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99291,Evaluation and management,Critical care services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,99232,Evaluation and management,Hospital inpatient services
+93959cc1-caaf-4665-b332-e12dbfebb8b2,HID_0226,ICU,90935,Medicine,Dialysis
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+93eeb05d-e631-48a3-90e7-81f7d9b2d47c,HID_0214,Resp,94003,Medicine,Pulmonary
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99232,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99239,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99232,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99223,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99239,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99223,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99231,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99232,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99291,Evaluation and management,Critical care services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99232,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0171,ICU,99223,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99232,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99291,Evaluation and management,Critical care services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,36556,Surgery,Cardiovascular system
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99233,Evaluation and management,Hospital inpatient services
+94bb6cff-2524-4e91-af0f-015ef95e35a9,HID_0235,ICU,99232,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99291,Evaluation and management,Critical care services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99233,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99232,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99291,Evaluation and management,Critical care services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99232,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99233,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99233,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99291,Evaluation and management,Critical care services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99238,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99291,Evaluation and management,Critical care services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99233,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99233,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99238,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99232,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99233,Evaluation and management,Hospital inpatient services
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,39010,Surgery,Mediastinum and diaphragm
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99253,Evaluation and management,Consultations
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,33508,Surgery,Cardiovascular system
+9dff63c6-8080-43f3-b88b-f1d9de840ad5,HID_0160,ICU,99231,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99231,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99232,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99232,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,39010,Surgery,Mediastinum and diaphragm
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99232,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99232,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99233,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99233,Evaluation and management,Hospital inpatient services
+a04e3781-414f-4979-a8ee-197589990636,HID_0216,ICU,99291,Evaluation and management,Critical care services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99291,Evaluation and management,Critical care services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99233,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99233,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99291,Evaluation and management,Critical care services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99291,Evaluation and management,Critical care services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99232,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99232,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99232,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99233,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99223,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99233,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99232,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99232,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99233,Evaluation and management,Hospital inpatient services
+a1edec69-e6e7-40f6-88bd-4635d909ede6,HID_0201,ICU,99232,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0219,Resp,94003,Medicine,Pulmonary
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99232,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99232,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,13121,Surgery,Integumentary system
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99291,Evaluation and management,Critical care services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99291,Evaluation and management,Critical care services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99232,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99291,Evaluation and management,Critical care services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99291,Evaluation and management,Critical care services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a2469901-82d1-46d8-91f0-cf8e61de95f0,HID_0223,ICU,99233,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99231,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,39010,Surgery,Mediastinum and diaphragm
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99291,Evaluation and management,Critical care services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99231,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99291,Evaluation and management,Critical care services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99291,Evaluation and management,Critical care services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99291,Evaluation and management,Critical care services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99233,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99232,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99233,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99222,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99232,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99233,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99291,Evaluation and management,Critical care services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99232,Evaluation and management,Hospital inpatient services
+a5b14383-ee82-42e8-bc9b-5fcbe5b25f34,HID_0204,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,39010,Surgery,Mediastinum and diaphragm
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99233,Evaluation and management,Hospital inpatient services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99232,Evaluation and management,Hospital inpatient services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,39010,Surgery,Mediastinum and diaphragm
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99233,Evaluation and management,Hospital inpatient services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99232,Evaluation and management,Hospital inpatient services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99233,Evaluation and management,Hospital inpatient services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99292,Evaluation and management,Critical care services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99231,Evaluation and management,Hospital inpatient services
+a979bbf3-35a1-426c-9526-55f73e148ae0,HID_0188,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99232,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99231,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0149,ICU,31641,Surgery,Respiratory system
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99239,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99233,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99232,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99291,Evaluation and management,Critical care services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99232,Evaluation and management,Hospital inpatient services
+a9d8d957-8caf-404d-aed5-8ad27f707d83,HID_0248,ICU,99291,Evaluation and management,Critical care services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,50323,Surgery,Urinary system
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99223,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99291,Evaluation and management,Critical care services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99231,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99233,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99232,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99232,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99231,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99233,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99233,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99232,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99232,Evaluation and management,Hospital inpatient services
+adce42a1-ee71-4cf6-aa84-40d45a0ffd21,HID_0184,ICU,99222,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99233,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99291,Evaluation and management,Critical care services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99232,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99223,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99291,Evaluation and management,Critical care services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99231,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99233,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99233,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99233,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0197,ICU,99233,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99233,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99232,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,50323,Surgery,Urinary system
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99232,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,39010,Surgery,Mediastinum and diaphragm
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,31641,Surgery,Respiratory system
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99291,Evaluation and management,Critical care services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99231,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99231,Evaluation and management,Hospital inpatient services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99291,Evaluation and management,Critical care services
+ade6d4a6-5638-4e5f-a0d5-c098de98b6d0,HID_0253,ICU,99232,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,39010,Surgery,Mediastinum and diaphragm
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99232,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99233,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99292,Evaluation and management,Critical care services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99233,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99232,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99233,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99233,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99232,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99239,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99233,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,39010,Surgery,Mediastinum and diaphragm
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99233,Evaluation and management,Hospital inpatient services
+afa82b11-40a7-4010-bc13-149abac2ee77,HID_0208,ICU,99232,Evaluation and management,Hospital inpatient services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99233,Evaluation and management,Hospital inpatient services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99231,Evaluation and management,Hospital inpatient services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99233,Evaluation and management,Hospital inpatient services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99291,Evaluation and management,Critical care services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99232,Evaluation and management,Hospital inpatient services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99233,Evaluation and management,Hospital inpatient services
+b60205a6-7e85-4ad1-8994-62f2c10581f6,HID_0207,ICU,99233,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94002,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0193,Resp,94003,Medicine,Pulmonary
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99222,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99231,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99232,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99291,Evaluation and management,Critical care services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99232,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99233,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99233,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99291,Evaluation and management,Critical care services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,99233,Evaluation and management,Hospital inpatient services
+b7f6e97d-03ca-496e-9169-9beb1ff124e7,HID_0254,ICU,39010,Surgery,Mediastinum and diaphragm
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,39010,Surgery,Mediastinum and diaphragm
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99233,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99231,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99232,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99291,Evaluation and management,Critical care services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99232,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99223,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99232,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99255,Evaluation and management,Consultations
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99291,Evaluation and management,Critical care services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99291,Evaluation and management,Critical care services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99232,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99232,Evaluation and management,Hospital inpatient services
+ba96d0a3-04f0-4b84-81ae-f157e3ba336d,HID_0136,ICU,99233,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99231,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99291,Evaluation and management,Critical care services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99291,Evaluation and management,Critical care services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99231,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99233,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99232,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99233,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99233,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99291,Evaluation and management,Critical care services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99231,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99232,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0174,ICU,99232,Evaluation and management,Hospital inpatient services
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0259,Resp,94002,Medicine,Pulmonary
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0259,Resp,94003,Medicine,Pulmonary
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0259,Resp,94003,Medicine,Pulmonary
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0259,Resp,94003,Medicine,Pulmonary
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0259,Resp,94003,Medicine,Pulmonary
+baa2e3f1-bd9f-49f5-a360-d243987458cf,HID_0259,Resp,94003,Medicine,Pulmonary
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,39010,Surgery,Mediastinum and diaphragm
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99232,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99231,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99291,Evaluation and management,Critical care services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99291,Evaluation and management,Critical care services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99232,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99232,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0206,ICU,99222,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99291,Evaluation and management,Critical care services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99231,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99232,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99291,Evaluation and management,Critical care services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,50200,Surgery,Urinary system
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99232,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,50323,Surgery,Urinary system
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99233,Evaluation and management,Hospital inpatient services
+bb1d08e0-be54-4078-b29a-0170358cc823,HID_0237,ICU,99233,Evaluation and management,Hospital inpatient services
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,99233,Evaluation and management,Hospital inpatient services
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,99231,Evaluation and management,Hospital inpatient services
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,99232,Evaluation and management,Hospital inpatient services
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,99292,Evaluation and management,Critical care services
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,99233,Evaluation and management,Hospital inpatient services
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,39010,Surgery,Mediastinum and diaphragm
+bb4c353d-7cc3-4cfa-948f-d61dcb8edfa1,HID_0159,ICU,99291,Evaluation and management,Critical care services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99233,Evaluation and management,Hospital inpatient services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99232,Evaluation and management,Hospital inpatient services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99255,Evaluation and management,Consultations
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99291,Evaluation and management,Critical care services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99291,Evaluation and management,Critical care services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99291,Evaluation and management,Critical care services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99232,Evaluation and management,Hospital inpatient services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99291,Evaluation and management,Critical care services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,99231,Evaluation and management,Hospital inpatient services
+bde2d1ef-b0d2-41a2-88b1-469c068ec626,HID_0133,ICU,39010,Surgery,Mediastinum and diaphragm
+c15de8a0-de68-4915-b9de-fa9248364d18,HID_0211,Resp,94003,Medicine,Pulmonary
+c15de8a0-de68-4915-b9de-fa9248364d18,HID_0211,Resp,94003,Medicine,Pulmonary
+c15de8a0-de68-4915-b9de-fa9248364d18,HID_0211,Resp,94003,Medicine,Pulmonary
+c15de8a0-de68-4915-b9de-fa9248364d18,HID_0211,Resp,94003,Medicine,Pulmonary
+c15de8a0-de68-4915-b9de-fa9248364d18,HID_0211,Resp,94003,Medicine,Pulmonary
+c15de8a0-de68-4915-b9de-fa9248364d18,HID_0211,Resp,94003,Medicine,Pulmonary
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99232,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99231,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99231,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99232,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99232,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99291,Evaluation and management,Critical care services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99233,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99232,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,39010,Surgery,Mediastinum and diaphragm
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99238,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99291,Evaluation and management,Critical care services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99233,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0209,ICU,99222,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99255,Evaluation and management,Consultations
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99233,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99291,Evaluation and management,Critical care services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99233,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99292,Evaluation and management,Critical care services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99291,Evaluation and management,Critical care services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99253,Evaluation and management,Consultations
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99232,Evaluation and management,Hospital inpatient services
+c1744235-5219-468c-bb61-c5bc9ed89dd5,HID_0222,ICU,99239,Evaluation and management,Hospital inpatient services
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,90801,Medicine,Psychiatry
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,99233,Evaluation and management,Hospital inpatient services
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,99239,Evaluation and management,Hospital inpatient services
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,99231,Evaluation and management,Hospital inpatient services
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,99291,Evaluation and management,Critical care services
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,99255,Evaluation and management,Consultations
+c222da71-0ebc-4fbd-b544-179e1b616c77,HID_0189,ICU,99291,Evaluation and management,Critical care services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99231,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99232,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99239,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99291,Evaluation and management,Critical care services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99291,Evaluation and management,Critical care services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99291,Evaluation and management,Critical care services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99231,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,90935,Medicine,Dialysis
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99231,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99232,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99223,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0157,ICU,99231,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99291,Evaluation and management,Critical care services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99222,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99232,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99222,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99232,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99232,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99231,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99232,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99231,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,90935,Medicine,Dialysis
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99291,Evaluation and management,Critical care services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99233,Evaluation and management,Hospital inpatient services
+c514ae71-a175-41a4-b60e-3d9842dc071c,HID_0231,ICU,99232,Evaluation and management,Hospital inpatient services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99233,Evaluation and management,Hospital inpatient services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99291,Evaluation and management,Critical care services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99231,Evaluation and management,Hospital inpatient services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,39010,Surgery,Mediastinum and diaphragm
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,61312,Surgery,Nervous system
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99291,Evaluation and management,Critical care services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99291,Evaluation and management,Critical care services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99232,Evaluation and management,Hospital inpatient services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0153,ICU,99291,Evaluation and management,Critical care services
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+c84a32ab-d9bc-4bf8-b937-caf02cad90d7,HID_0238,Resp,94003,Medicine,Pulmonary
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99231,Evaluation and management,Hospital inpatient services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99233,Evaluation and management,Hospital inpatient services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99232,Evaluation and management,Hospital inpatient services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99291,Evaluation and management,Critical care services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99291,Evaluation and management,Critical care services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99233,Evaluation and management,Hospital inpatient services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99291,Evaluation and management,Critical care services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99232,Evaluation and management,Hospital inpatient services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99222,Evaluation and management,Hospital inpatient services
+d12a8e38-dc77-469b-bed9-2ec73a2bcfa3,HID_0192,ICU,99231,Evaluation and management,Hospital inpatient services
+d1ea9a9f-4277-4681-9f2a-978ec86d5bbb,HID_0143,ICU,99233,Evaluation and management,Hospital inpatient services
+d1ea9a9f-4277-4681-9f2a-978ec86d5bbb,HID_0143,ICU,99238,Evaluation and management,Hospital inpatient services
+d1ea9a9f-4277-4681-9f2a-978ec86d5bbb,HID_0143,ICU,99231,Evaluation and management,Hospital inpatient services
+d1ea9a9f-4277-4681-9f2a-978ec86d5bbb,HID_0143,ICU,99232,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99291,Evaluation and management,Critical care services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99231,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99232,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99291,Evaluation and management,Critical care services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99233,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99233,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99233,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99291,Evaluation and management,Critical care services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,33517,Surgery,Cardiovascular system
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99233,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99233,Evaluation and management,Hospital inpatient services
+d25eadaf-e788-4428-90d4-dad0e5e2a4c0,HID_0183,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99232,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,39010,Surgery,Mediastinum and diaphragm
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,33517,Surgery,Cardiovascular system
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99291,Evaluation and management,Critical care services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99223,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99291,Evaluation and management,Critical care services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99232,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99231,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99232,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99223,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99232,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99232,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99233,Evaluation and management,Hospital inpatient services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99291,Evaluation and management,Critical care services
+d65547f1-61d7-4f4b-a179-4a37582024ee,HID_0191,ICU,99232,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99232,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99222,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99222,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99232,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99233,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99233,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99231,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99232,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99233,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99291,Evaluation and management,Critical care services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99233,Evaluation and management,Hospital inpatient services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,36620,Surgery,Cardiovascular system
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99291,Evaluation and management,Critical care services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0217,ICU,99291,Evaluation and management,Critical care services
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e55907e6-244e-4d28-bb9e-0fa0ff5f18ed,HID_0220,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e6ab215f-f482-479f-803d-2bccd029595d,HID_0198,Resp,94003,Medicine,Pulmonary
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,39010,Surgery,Mediastinum and diaphragm
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99231,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99232,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99291,Evaluation and management,Critical care services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99232,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99262,Evaluation and management,Follow-up inpatient consultations (deleted codes)
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99233,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99232,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,33405,Surgery,Cardiovascular system
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99232,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,39010,Surgery,Mediastinum and diaphragm
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99232,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99233,Evaluation and management,Hospital inpatient services
+e7752fb6-453a-4784-9987-9af8c0540b1b,HID_0167,ICU,99222,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99255,Evaluation and management,Consultations
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99291,Evaluation and management,Critical care services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,35206,Surgery,Cardiovascular system
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99231,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0215,ICU,50200,Surgery,Urinary system
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99291,Evaluation and management,Critical care services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99232,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99222,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99291,Evaluation and management,Critical care services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99231,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99291,Evaluation and management,Critical care services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0221,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0246,ICU,99291,Evaluation and management,Critical care services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0246,ICU,39010,Surgery,Mediastinum and diaphragm
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0246,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0246,ICU,99291,Evaluation and management,Critical care services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0246,ICU,99233,Evaluation and management,Hospital inpatient services
+ebdc2748-4df3-4e51-ab02-0a2f38bb8fb4,HID_0246,ICU,99231,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99233,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99233,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99233,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,27138,Surgery,Musculoskeletal system
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99223,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99233,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99233,Evaluation and management,Hospital inpatient services
+ee1af257-8f9f-47cb-817e-236f3ca1a010,HID_0177,ICU,99291,Evaluation and management,Critical care services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99231,Evaluation and management,Hospital inpatient services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,31624,Surgery,Respiratory system
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99233,Evaluation and management,Hospital inpatient services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,39010,Surgery,Mediastinum and diaphragm
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99233,Evaluation and management,Hospital inpatient services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99233,Evaluation and management,Hospital inpatient services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,31622,Surgery,Respiratory system
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99233,Evaluation and management,Hospital inpatient services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99291,Evaluation and management,Critical care services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99232,Evaluation and management,Hospital inpatient services
+ee7e4c38-245a-44c9-90c3-fa86d5b8569d,HID_0134,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,33250,Surgery,Cardiovascular system
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99233,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99233,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99223,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99223,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99291,Evaluation and management,Critical care services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99233,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,39010,Surgery,Mediastinum and diaphragm
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99232,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99233,Evaluation and management,Hospital inpatient services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99291,Evaluation and management,Critical care services
+efdb5dbf-1dfb-4472-9dee-8dde4361d916,HID_0141,ICU,99291,Evaluation and management,Critical care services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99233,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99233,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99232,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99232,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99291,Evaluation and management,Critical care services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99231,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99223,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,39010,Surgery,Mediastinum and diaphragm
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99232,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,90935,Medicine,Dialysis
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99232,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,39010,Surgery,Mediastinum and diaphragm
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99291,Evaluation and management,Critical care services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99291,Evaluation and management,Critical care services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99233,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99232,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99223,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99233,Evaluation and management,Hospital inpatient services
+f273da79-a05f-43c2-a635-d3cbb7fb8491,HID_0185,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99232,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99291,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99232,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99238,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,39010,Surgery,Mediastinum and diaphragm
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99232,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99291,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,39010,Surgery,Mediastinum and diaphragm
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0218,ICU,99232,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99291,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99291,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99232,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99291,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99232,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99292,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99292,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99233,Evaluation and management,Hospital inpatient services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99291,Evaluation and management,Critical care services
+f3ee3b82-5ff3-4ccf-9dcf-4cab0009b435,HID_0244,ICU,99292,Evaluation and management,Critical care services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99233,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99231,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99233,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99232,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99232,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,44139,Surgery,Digestive system
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99291,Evaluation and management,Critical care services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99291,Evaluation and management,Critical care services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99233,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99233,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99233,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99232,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,27138,Surgery,Musculoskeletal system
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99232,Evaluation and management,Hospital inpatient services
+fecd4b1f-a3c2-4996-9792-d559ae755dc8,HID_0146,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99239,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99291,Evaluation and management,Critical care services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99233,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99233,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,39010,Surgery,Mediastinum and diaphragm
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99231,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99233,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99292,Evaluation and management,Critical care services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99233,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0239,ICU,99291,Evaluation and management,Critical care services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99233,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99291,Evaluation and management,Critical care services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,90935,Medicine,Dialysis
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99233,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99232,Evaluation and management,Hospital inpatient services
+ff9f831d-91d8-4a93-8417-3faefad79df0,HID_0242,ICU,99233,Evaluation and management,Hospital inpatient services
